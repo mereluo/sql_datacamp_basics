@@ -210,7 +210,7 @@ ADD CONSTRAINT university_shortname_unq UNIQUE(university_shortname);
 
 ## Chapter 3
 
-![Untitled](Relational%20Databases%20/Untitled.png)
+![Untitled](Relational%20Databases/Untitled.png)
 
 ```sql
 -- Count the number of distinct rows in universities
