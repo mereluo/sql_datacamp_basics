@@ -337,7 +337,7 @@ WHERE universities.university_city = 'Zurich';
 
 ### How to implement N:M-relationships
 
-![Untitled](Relational%20Databases%20/Untitled%201.png)
+![Untitled](Relational%20Databases/Untitled%201.png)
 
 - create a table
 - add foreign keys for every connected table
